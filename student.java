@@ -6,7 +6,6 @@ public class student {
 			System.out.println("LEARN HERE AND LEAD ANYWHERE!!");
 			System.out.println("My name is: " +sname);
 			System.out.println("My course is: " +course);
-			System.out.println("My Roll Number is: " +rollno);
 	}
 }
 
